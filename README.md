@@ -4,7 +4,7 @@
 - 👀 I’m interested in technology and software development.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on open-source AI projects and innovative tech solutions.
-- 📫 How to reach me: You can reach me via email at jaynikam007@example.com or connect with me on LinkedIn.
+- 📫 How to reach me: You can reach me via email at jaynikam20@gmail.com or connect with me on LinkedIn.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and have a goal to hike in every national park in my country!
 
